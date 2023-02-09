@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Dastagir",
+        "title": "Delivery app",
+        "text": "We need delivery app but with a fun look.",
+        "img": "img/images1.jpeg",
+        "time": "21 July",
+        "prize": "200"
+    },
+    {
+        "name": "John Smith",
+        "title": "E-commerce app",
+        "text": "We will build an e-commerce site that delivary goods to all.",
+        "img": "img/images2.jpeg",
+        "time": "22 July",
+        "prize": "300"
+    },
+    {
+        "name": "Artem Jekson",
+        "title": "Commerce app",
+        "text": "We need delivery app but with a fun look.",
+        "img": "img/images3.jpeg",
+        "time": "23 July",
+        "prize": "400"
+    },
+    {
+        "name": "John Smith",
+        "title": "Flutter app",
+        "text": "We will build an e-commerce site that delivary goods to all.",
+        "img": "img/images4.jpeg",
+        "time": "24 July",
+        "prize": "500"
+    }
+]

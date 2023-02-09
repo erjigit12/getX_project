@@ -1,0 +1,52 @@
+import 'package:getx_progect/server/model.dart';
+
+final List users = [
+  User(
+    status: "Winner",
+    text: "Finansial mobile app",
+    img: "assets/img/pic1.png",
+    time: "2 day ago",
+    name: "Dastagir",
+    title: "Delivery app",
+    txt: "We need delivery app but with a fun look.",
+    images: "assets/img/images1.jpeg",
+    day: "21 July",
+    prize: "200",
+  ),
+  User(
+    status: "Winner",
+    text: "E-commerce Logo Desig",
+    img: "assets/img/pic2.png",
+    time: "3 day ago",
+    name: "John Smith",
+    title: "E-commerce",
+    txt: "We will build an e-commerce site that delivary goods to all.",
+    images: "assets/img/images2.jpeg",
+    day: "22 July",
+    prize: "300",
+  ),
+  User(
+    status: "Winner",
+    text: "Tech app",
+    img: "assets/img/pic3.png",
+    time: "4 day ago",
+    name: "Artem Jekson",
+    title: "Commerce app",
+    txt: "We need delivery app but with a fun look",
+    images: "assets/img/images3.jpeg",
+    day: "23 July",
+    prize: "400",
+  ),
+  User(
+    status: "Winner",
+    text: "Fashion app",
+    img: "assets/img/pic4.png",
+    time: "5 day ago",
+    name: "Grigor",
+    title: "Flutter app",
+    txt: "We will build an e-commerce site that delivary goods to all",
+    images: "assets/img/images4.jpeg",
+    day: "24 July",
+    prize: "500",
+  )
+];
